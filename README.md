@@ -114,13 +114,13 @@ npm run preview
 
 **Fathima Shajahan**
 
-📧 Email: fathimashajahan2111@gmail.com
+📧 Email: fathima.webdev@gmail.com
 
 🌐 Portfolio: https://www.fathimashajahan.in
 
 🐙 GitHub: https://github.com/FathimaShajahan
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/fathimaamarkhan/
 
 ---
 
